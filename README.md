@@ -2,7 +2,7 @@
 ### Introducción
 Hoy en día la eduación está rota, se siguen enseñando las mismas cosas que hace más de 100 años; esto no es preparar a los chicos para el futuro, es **prepararlos para el pasado**. Todos las personas tienen gustos, necesidades y capacidades distintas, por esto mismo está mal encerrar a 30 alumnos en una habitación de 5 x 5 metros y enseñarles a todos sobre como funcionan las células del cuerpo humano, es cierto que **aprender esto solamente va a benificiar a unos pocos**, pero no a todos; por ejemplo ¿De que le sirve a la persona que quiere estudiar derecho, aprender sobre todo el recorrido que realizan los alimentos en la digestión? ¿De que le sirve al futuro ingeniero aprender sobre la filosofía de Kant? ¿De que le sirve al que va a ser programador, aprender sobre las fuerzas intermoleculares o la estructura de Lewis? La respuesta es absolutamente de nada. **Lo más ridículo de esto es exigirle a los chicos que se lo aprendan de memoria**.
 
-----
+---
 
 ### Educación basada en tu futuro
 Cada alumno debería tener la total libertad de elegir que materias quiere estudiar y cuales no, siendo él quien elige sus límites, cuántas horas por día quiere dedicarle, y quién le enseña. Hay ciertas cosas que son esenciales aprender, como matemática y lengua, no puede ser que todavía haya gente que no sabe las reglas de ortografía básicas de su idioma principal, el que habla día a día.
